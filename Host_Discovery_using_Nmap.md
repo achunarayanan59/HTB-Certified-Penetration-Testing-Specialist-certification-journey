@@ -23,7 +23,8 @@ ip addr show
 after getting our network subnet , we can now scan out network range :
 
 ```
-nmap -sn -oA subnet_scan 192.168.1.0/24 
+<img width="745" height="527" alt="image" src="https://github.com/user-attachments/assets/db51d6a5-376a-4e93-92d1-e03a95becf5a" />
+
 ```
 
 Here this is a simple scanning method which gets all the alive hots with in our network range
